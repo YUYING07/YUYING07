@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi I'm Yingying Yu(YYY) 👋
+- 🔭 Currently a research assistant at weilab, SDU
+- 🌱 a senior at SDU
+- ⚡  Python/JAVA/C++/Vue/Javascript/Pytorch/Tensorflow/Sklearn.  Deep learning
+- 😄 Interests: Epigenetics（*DNA methylation*）
 <!--
 **YUYING07/YUYING07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
