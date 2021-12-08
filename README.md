@@ -1,6 +1,6 @@
 ### Hi I'm Yingying Yu(YYY) 👋
 - 🔭 Currently a research assistant at weilab, SDU
-- 🌱 a senior at SDU
+- 🌱 a senior in SDU
 - ⚡  Python/JAVA/C++/Vue/Javascript/Pytorch/Tensorflow/Sklearn.  Deep learning
 - 😄 Interests: Epigenetics（*DNA methylation*）
 <!--
