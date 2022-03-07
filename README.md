@@ -1,4 +1,5 @@
 ### Hi I'm Yingying Yu(YYY) 👋
+- 👯 Currently an intern in Biomap
 - 🔭 Currently a research assistant at weilab, SDU
 - 🌱 a senior in SDU
 - 📫 Homepage: https://yuying07.github.io/
