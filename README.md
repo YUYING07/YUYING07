@@ -4,7 +4,7 @@
 - 🌱 a senior in SDU
 - 📫 Homepage: https://yuying07.github.io/
 - ⚡  Python/JAVA/C++/Vue/Javascript/Pytorch/Tensorflow/Sklearn.  Deep learning
-- 😄 Interests: Epigenetics（*DNA methylation*）, Peptide(Aggregation)
+- 😄 Interests: Epigenetics（*DNA methylation*）, Peptide(*Aggregation*), RNA
 <!--
 **YUYING07/YUYING07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
