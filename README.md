@@ -1,7 +1,5 @@
 ### Hi I'm Yingying Yu(YYY) 👋
 - 😄 Accept PhD offer funded by CityU
-- 👯 Currently an intern in Biomap
-- 🔭 Currently a research assistant at weilab, SDU
 - 📫 Homepage: https://yuying07.github.io/
 - ⚡  Python/JAVA/C++/Vue/Javascript/Pytorch/Tensorflow/Sklearn.  Deep learning
 - 💬 Interests: Epigenetics（*DNA methylation*）, Peptide(*Aggregation*), RNA（*RNA methylation*）
