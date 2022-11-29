@@ -2,7 +2,7 @@
 - 😄 PhD student at CityU
 - 📫 Homepage: https://yuying07.github.io/
 - ⚡  Python/JAVA/C++/Vue/Javascript/Pytorch/Tensorflow/Sklearn.  Deep learning, Machine Learning
-- 💬 Interests:  DNA(*Structural Variation*), Epigenetics（*DNA methylation*）, Peptide (*Aggregation*,*affinity*), RNA（*RNA methylation*）
+- 💬 Interests:  DNA(*Structural Variation*), Tumor, Epigenetics（*DNA methylation*）, Peptide (*Aggregation*,*affinity*), RNA（*RNA methylation*, *RNA velocity*）
 <!--
 **YUYING07/YUYING07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
