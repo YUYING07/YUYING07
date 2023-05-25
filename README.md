@@ -1,8 +1,7 @@
 ### Hi I'm Yingying Yu(YYY) 👋
 - 😄 PhD student at CityU
 - 📫 Homepage: https://yuying07.github.io/
-- ⚡  Python/JAVA/C++/Vue/Javascript/Pytorch/Tensorflow/Sklearn.  Deep learning, Machine Learning
-- 💬 Interests:  DNA(*Structural Variation*), Peptide (*Aggregation*,*affinity*), RNA（*RNA methylation*, *RNA velocity*）,Tumor evolution clone, Epigenetics（*DNA methylation*）
+- 💬 Interests:  Try to incorporate Deep Learning methods into epigenetic and single-cell analysis, and I am interested in cancer development studies.
 <!--
 **YUYING07/YUYING07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
